@@ -45,31 +45,41 @@ https://excalidraw.com/#json=H6QUWR0z4paJ0JeTJX4_X,JCtq_dhARo_ia284iwyfDg
 ### **Key Themes / Information -**
  As you may expect, without the key themes and information from dune I cannot deliver on my project's purpose and create an enjoyable learning resource. It will be the easiest and simplest to complete but it may be time consuming transferring information from other sources to my website.
 ### **Engagement / interactivity -**
- this will most likely be the hardest part of the project to realise as creating fully fledged videos / charts of a high standard will be difficult. Despite this I think I can still do it with the aid of programs such as premiere Rush.
+#### this will most likely be the hardest part of the project to realise as creating fully fledged videos / charts of a high standard will be difficult. Despite this I think I can still do it with the aid of programs such as premiere Rush.
+--- 
 
-# **Requirements Outline**
+
+# **Requirements Specification**
 ## **Functional Requirements**
 
 
 
 
 
-Purpose of the Application
+### **Purpose of the Application**
+The app aims to engage people previously interested in the Dune franchise by captivating them with interactive and in-depth informative material within the universe of Dune. I don't intend to appeal to those who haven't read the books or watched the movie. 
+### **Use Cases** 
+- Users will be able to gain a more indepth understanding of graphs/charts through pop-up menus 
+- Via zooming in charts, users can grasp the full scale of dune regarding the animals and technology
+- There will be a libary where you can manually drag to see all the different factions of dune
+- Users can opt to go to a more detailed version of the factions and got to a seperate page 
 
-Describe what the app will do (e.g., "The app will allow users to explore book characters through interactive profiles").
+### **Test Cases** 
+- When hovering over graphs regarding Dune technology, extra information will pop up, eg. if they hover over a stillsuit diagram, each section of the suit will have extra information detailing its purpose. 
+- You will be able to zoom in and out on a large chart describing the size of the animals and ships in Dune.
+- There will be a library esque menu where you can click and drag to see the different factions of dune. 
+- When you click on these factions / groups eg. the Bene gesserit; you will be taken to another page which has more information reguarding the given faction. 
 
-Explain whether the app is designed to promote the book or engage fans within its genre.
-
-Use Cases
-
-Identify at least four key user interactions (e.g., "Users will select a character to view their backstory" or "Users can participate in a genre-themed quiz").
-
-Include a brief user journey for each use case, explaining how users will navigate the app.
-
-Test Cases (Planned)
-
-Outline expected behaviours of the user experience (e.g., "When the user selects 'Start Quiz,' the app will display the first question").
-
-Describe how you will test these features later (e.g., peer testing or self-testing).
-
-Provide at least four examples 
+### I will test these features by first using them myself and then getting friends to revise them and make sure they work. 
+----- 
+## **Non-Functional Requirements** 
+- ## Performance 
+    - Ideally, my website will have no noticable delay between any mouse inputs and their corresponding actions. Their may be some delay whenloading a new page due to the images / graphs / text, however this shouldn't take more than a few seconds. 
+- ## Usability 
+    - I am aiming to have an extremely simple and logical way of navigating my website. I despise apps which are clunky and full of things you don't need that are hard to navigate, mine will be simple and easy to navigate. 
+- ## Reliability
+    - I will do a considerable amount of testing by myself and with friends to definitively state that my site is bug free, in addition to this screen size shouldn't be an issue since Figma is built to support different devices and screen sizes. 
+- ## Security 
+    - I don't intend to advertise any other services and also the user doesn't need to save their progress so there will be no log in details or anything saved, however I will provide a google form for feedback about the website. 
+----
+# **Social And Ethical Issues**
