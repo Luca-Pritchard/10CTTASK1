@@ -82,4 +82,33 @@ The app aims to engage people previously interested in the Dune franchise by cap
 - ## Security 
     - I don't intend to advertise any other services and also the user doesn't need to save their progress so there will be no log in details or anything saved, however I will provide a google form for feedback about the website. 
 ----
-# **Social And Ethical Issues**
+# **Social, Legal and Ethical Issues**
+- ## Target Audience Considerations 
+All users of my site will be people of varying age and life circumstances, the only common thing they will share is that they have an interest in the Dune book series. Due to this fact I will try make my site accomodating to neurodivergent people such as people with A.D.H.D. I will do this by making my website particularly engaging, colourful and easy to navigate. 
+- ## Potential Benefits
+Obviously since dune is a book series, this site is likely to foster an interest in reading, particularly in science fiction books. However this my website may also result in a viewer developing a hobbie related to science, technology or environments and biology. Finally, my site will benefit consumers by informing them on the book series they were previously interested in and answering their questions. 
+- ## Potential Risks 
+I can only thing of two ways where my site could be harmful. 
+1. Since Dune takes a lot of inspiration from Saudi Arabian and middle eastern communities, some middle eastern people may take offense.
+2. The Dune books as they were made over 50 years ago do somewhat misrepresent women or relegate them to minor roles, this is exemplified in Chani, Pauls love interest; Paul gets a wife while still dating Chani and then starts a war and Chani thinks nothing of it and just agrees with her husband. 
+In an effort to counterract this messaging, I will add disclaimers and also will leave out some of the parts which I see as more harmful or stereotypical.
+
+## **Ethical Responsibilities**
+### User Data & Privacy
+My site will collect no user data aside from anything they send in the suggestions form and thus I have no ethical requirements to meet when reguarding their privacy. 
+
+### Representation & Inclusion
+As mentioned previously there are some instances where women are relegated to smaller roles or seem to not think for themeselves and leave the decisions to their male counterparts. I intend to focus on the more empowering parts of the book and leave disclaimers and notes where I believe women or middle eastern communities are being poorly represented. 
+
+### Content Sensitivity
+The book does contain frequent encounters with murder, sex and violence, Which I will largely exclude this content and won't contain and graphic descriptions. However there will be some instances where I will need to say things like "X-Character killed Y-Charcter" and such for informative purposes. 
+
+## **Legal Considerations** 
+### Copyright & Intellectual Property:
+I will largely be creating my own resources through descriptions, drawings, graphs, etc. When I do use a quote from the book or an image online, I will make sure to site its creator so it is legally allowed under fair use. 
+
+### Terms of Use
+If I were to launch my website, It would be allowed as long as It was profit free and I site my sources eg. Dune by frank Herbert or any artists who made images I used. Since I plan to do both of these things, It is fair use. 
+
+--- 
+# **Researching and Planning** 
