@@ -112,3 +112,6 @@ If I were to launch my website, It would be allowed as long as It was profit fre
 
 --- 
 # **Researching and Planning** 
+
+### Gant chart
+![image](images/Screenshot%202025-03-28%20104325.png "Gantt Chart")
