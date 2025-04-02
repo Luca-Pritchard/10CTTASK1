@@ -115,3 +115,19 @@ If I were to launch my website, It would be allowed as long as It was profit fre
 
 ### Gant chart
 ![image](images/Screenshot%202025-03-28%20104325.png "Gantt Chart")
+
+## **Research pre-existing UI's**
+
+| Pre-existing UI      | Plus | Minus | Implication | 
+| --------------- | ----------- | ----------- | ----------- |
+| Instagram Reels    | Extremely engaging and designed to keep audience on the app for long periods of time. Looks very aesthetic       | More suited to a mobile setting and doesn't really fit the dune themes      | I really like the engagement gained from an app like instagram and I think it looks good but it doesn't really work with the desert aesthetic I want and also makes the ap seem a bit to childish      |
+| Zoiq   | The app has a very unique method of portraying information when you scroll down, scrolling doesn't just slide the screen, it opens up new windows and creates cool graphics and such, making it engaging. I also like the very clear and clean aesthetic.       | Sometimes the scrolling and graphics can be a bit much. Also I feel like the website is a bit too dark at times.       | I'll take some of the scrolling graphics and fonts / clean text but I will probably take the scrolling down a notch. Also I will have a few different colour pallettes    |
+| Mcdonalds   | Very bright, eye catching, colourful website. It makes it seem like their almost a good company!         | Macca's is a bit too bright and colourful and seems too much like they want to steal your money.    | I will try and be eye catching and colourful like maccas, but I won't be as bright and vibrant. For me Maccas feels to 'optimised' like they want your money.        |
+
+## **Researching Software Options** 
+
+| Pre-existing UI      | Plus | Minus | Implication | 
+| --------------- | ----------- | ----------- | ----------- |
+| Figma   | Extremely engaging and designed to keep audience on the app for long periods of time. Looks very aesthetic       | More suited to a mobile setting and doesn't really fit the dune themes      | I really like the engagement gained from an app like instagram and I think it looks good but it doesn't really work with the desert aesthetic I want and also makes the ap seem a bit to childish      |
+| AdobeXD   | The app has a very unique method of portraying information when you scroll down, scrolling doesn't just slide the screen, it opens up new windows and creates cool graphics and such, making it engaging. I also like the very clear and clean aesthetic.       | Sometimes the scrolling and graphics can be a bit much. Also I feel like the website is a bit too dark at times.       | I'll take some of the scrolling graphics and fonts / clean text but I will probably take the scrolling down a notch. Also I will have a few different colour pallettes    |
+| Macdonalds   | Very bright, eye catching, colourful website. It makes it seem like their almost a good company!         | Macca's is a bit too bright and colourful and seems too much like they want to steal your money.    | I will try and be eye catching and colourful like maccas, but I won't be as bright and vibrant. For me Maccas feels to 'optimised' like they want your money.        |
