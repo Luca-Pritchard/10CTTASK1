@@ -3,7 +3,7 @@
 --- 
 # **Design brief**
 I want to create an interactive website with videos, charts, excerpts from the book and all things related to the dune universe. It will be semi-based off of the appendix of the book which shows things like the religions from Dune and the made up words used in the book. My target audience is someone similar to me who is interested in anything about dune whether it's the characters, ecology, religion, philosophy, etc. 
-Book Choice and justification
+
 ## **Identify the name of the book and author**
 Dune - By Frank Herbert 
 ## **Summarise what the book is about**
@@ -131,3 +131,71 @@ If I were to launch my website, It would be allowed as long as It was profit fre
 | Figma   | Figma has lots of pre-established templates from iphones, computers, laptops, etc. It is quick and easy to create realistic looking designs. Also since it is a website I can log on on any device with easy without downloading the app.       | Probably better suited to a mobile game or app and less for a desktop website and I'm still a little new to it.      | I will have to practise using Figma a bit and maybe research or download templates online that are better for a desktop website.      |
 | AdobeXD   | Well known by Mr Scott and classmates so it is easy to ask for help, used by many professionals.       | Personally, I find the app harder to navigate and it doesn't have the same templates as my other software options.       | Although the app is harder initially once I get used to it, it will probably be quite helpful. Also I can get the assistance of classmates or Mr Scott.    |
 | Excalidraw  | I'm a big fan of the handrawn aesthetic, I think the website is really easy for making wireframes and taking notes. Also i'm fairly experienced with the site.     | I believe that the aesthetic of excalidraw is kind of unprofessional and would look good when writing notes but if you want a  cool looking website I don't think it fits as well  | Despite me liking excalidraw for other things, I don't think its suited to the task well and doesn't really fit the aesthetic or goal im working towards. However I will use it to complete my wireframes.       |
+
+## **Wireframes and Wireframe Feedback** 
+Here are my wireframes. 
+
+![image](images\titlepage.png)
+![image](images\technologofdune.png)
+![image](images\worldofdune.png)
+![image](images\philosophyofdune.png)
+![image](images\ecologyofdune.png)
+
+Sadly, people weren't responding very effectively on my form and I found it hard to follow their feedback, however I still mangaged to follow feedback from my parents and friends advice that they gave me in person
+![image](images\peoplearentbeingniceonmyform.png)
+
+Other feedback told me to make it more clear what certain sections are for, eg. in "the world of Dune" Max thought it was just like a buch of cluttered boxes and its a bit overwhelming and so I should try make it clear what each part is for.
+The majority of feedback was just jokes and I couldnt really act on it
+
+# **Testing and Evluating**
+## **Ongoing Evaluation** 
+- Week 1
+
+I started my ongoing evaluation in week 2 as before this I was in Japan and then had other assessments was extremely sad because I got back from japan (editor's note: i still am sad from japan) I watched a 6 minute figma tutorial mute but with subtitles and then fumbled around in figma and did nothing pretty much, I made about half the title page but it still doesn't really work. My ‘most important decision’ doesn’t really apply to this week because I essentially did nothing. I think I should probably watch more figma tutorials so I get a better understanding of the website before I work much further also next time I will bring earbuds so i don’t have to read subtitles. 
+
+A video I watched: https://www.youtube.com/watch?v=1pW_sk-2y40
+
+![image](images\originaltitlepage.png)
+
+- Week 2
+
+This week I watched a few more figma tutorials and then got to work. I designethe ‘The world of Dune’ page and added a plot summary, because it took me a while to figure out how to connect the plot summary and animate it nicely but the thing I had the most trouble with was putting those images of the factions in a diamond shape. I think this is the braindead way to do it but I literally just saved the images turned 45 degrees so when i turned them 45 degrees in figma to make a square a diamond they turned back the right way.  I still haven't finished the page as I haven't added the text for the characters or added the factions details. Figma is starting to make sense. Next week I’ll focus on the ecology of dune and watch some videos and stuff on it.  
+
+![image](images\plotsumamry.png)
+
+![image](images\theworldofduneoriginal.png)
+
+- Week 3
+
+I did a lot more this week due to my better understanding of Figma but it was really boring because everyone was off at tasmania. This week i finished the world of Dune and the Ecology of Dune. Unfortunately I didn’t get up to the technology of Dune because I wasted a lot of time trying to figure out how to do a spinny character menu where you scroll through the characters and tried to figure out how to do tooltips but I wasn’t able to do it. My workflow was really effective aside from that little obstacle of the tooltips and scroll menu, I really tried and watched loads of tutorials but in the end I opted for other UX design ideas. Next week I’ll play less kendrick lamar so i can focus more and vibe less.  
+
+![image](images\philoofduneoriginal.png)
+![image](images\worldofduneoriignal.png)
+![image](images\ecologyofduneoriginal.png)
+
+- Week 4 
+
+This week I got feedback on my first prototype but due to time constraints (due to my poor planning, my bad sir)  I didn’t do a first prototype for the technology of Dune and just put it in my final prototype. Anyway, I got feedback for the first prototype and did a lot of little things like transitions, changing colours, rewording things, fixing spelling and grammar mistakes, centering text boxes, etc. In the philosophy of Dune section I flipped the layout and made the plot summary a lot easier to understand. I kept on having issues getting the menu working especially with ‘hover to’ transitions but I found out it was because I accidentally made one of my frames a component. Sir, this is just a secret between us two, but I may or may not have done all of the second prototype and added the technology of dune section in like the last 3 days, please don’t tell anyone. However my workflow was on point, I wasn’t wasting any time on silly menus, the whiplash soundtrack had me dialed in on my work and I'm really satisfied with how a lot of the second prototype turned out aside from the technology of dune section which still has a few transition issues i can’t figure out. 
+
+## **Prototype 1 Feedback**
+
+Well, a lot of the user feedback I received was quite poor, making a bunch of brainrot or fantastic 4 references but with the valuable advice I did get from people like my father, Max, Koen and Carmela I think I acted on it quite well. They pointed out many small details that I missed like colours, centering, transitions and layouts which added up leaving a large impact on the overall usability and  aesthetics. My technology of Dune section still definitely requires improvement though as I wasn’t able to fix the bugs or get feedback on that one. If i were given an extra few weeks to do the task I would go more in depth and add some better charts, graphs and menu designs and I would also fix the technology section. I think overall I responded to user feedback quite well and it had a great impact on my work. 
+The main differences between prototype 1 and 2 were just in fixing bugs reguarding transitions and then changing some of the layouts, aside from that it was just rewording, centering stuff, etc and there weren't any MAJOR changes. 
+## **Final Evaluation** 
+1. **Evaluate success of success criteria**
+
+- Functional criteria - Due to the sheer scale of dunes universe, it took a lot of time to just give the fairly basic information and so I think a considerable amount of fans would already know a lot of the facts I presented.  Despite this I believe my final prototype would still be quite captivating for those interested in dune, It contains charts and users are able to opt to go to more detailed versions of certain pages. I was slightly underwhelmed by figmas capabilities to make menus and UXs, this is likely because its for prototyping and not full websites, this is the reason I was unable to complete my goals of making these zoom-in charts and menus where you can use the mouse to drag through the factions, to do this I would have needed coding experience, another software and/or Figmas pro-mode. In summary I fulfilled a lot of the objectives I set out to do by making a very interactive and captivating design with extra info popping up on hover and was able to add the majority of the information I intended to but I fell short when making some of the charts and unique menu designs I intended to build. 
+
+- Nonfunctional requirements, In terms of performance there was no noticeable delay between transitions or mouse inputs. As I predicted there were some small delays generating some of the backgrounds or larger images but It wasn’t very disrupting for the user experience. The majority of people who have reviewed my prototype think it's fairly logical to understand and navigate. My website to my knowledge is bug free except for the technology of Dune section and parts like the survey which I didn’t intend to finish. The user doesn’t give any information unless they want to leave a review and its anonymous, I am not advertising any services and so therefore I have fulfilled my security requirements. So overall I have fulfilled all my non-functional requirements aside from a few bugs in the technology of Dune section 
+
+2. **Evaluate how it meets design brief.**
+
+I said in my design brief that I want to create ‘an interactive website with videos, charts and excerpts from the book and all things related to the dune universe.’ I think I have almost completely satisfied this goal, I have various images, excerpts and charts from Dune and I think it would be particularly useful to someone who has only watched the movie but not read the book so their understanding is more limited, I would have gone more in-depth with my information but I would have needed more time and to manage it better, also Figmas prototyping gets very complicated very fast. So I think the final prototype effectively mirrored what I set out to do except for not having videos and possibly not going very in-depth. 
+
+3. **Evaluate how i managed social legal and ethical issues** 
+
+I don’t think there were many social legal or ethical issues relevant to my task, I only really used images and quotes from Dune the book or the Dune 2021 Movie and since I am not posting this publicly or intending to make any money from it there aren’t any legal issues. I tried to be very respectful when it comes to social responsibilities reguarding that of the role of women in the book and also the inspiration from middle eastern communities but since I didn’t go into too much detail these possible social issues weren’t really a problem. 
+
+4. **Evalute your time management and how you beat obstacles** 
+
+Unfortunately, I managed my time fairly poorly during this task. I did the majority of the work in the final 2 weeks of a task we had for like a term. I have a bit of an excuse because I was extremely busy in march and april with: Duke of Ed, hosting a Japanese student, accelerated subject, going to Japan and an assessment block and then after that I just forgot about Computer tech and was sad after japan. However In the end I got basically all the work done, I could have done a few better charts and fixed the technology section but that's about it. I adapted to challenges regarding figma and did a lot of research trying to learn how to figure it out, the prototyping is very hard. In summary I think my time management was quite poor, (partially due to outside circumstances) however I was still able to complete the task moderately well and overcame challenges. 
